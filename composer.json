@@ -1,0 +1,16 @@
+{
+  "name": "adcbguo/pay-sdk",
+  "description": "支付SDK PHP版本",
+  "keywords": ["alipay","wxpay","pay"],
+  "type":"library",
+  "license": "MIT",
+  "authors": [
+    {"name": "ggc", "email": "adcbguo@qq.com"}
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": { "pay\\": "src/" }
+  }
+}
