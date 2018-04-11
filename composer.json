@@ -1,5 +1,5 @@
 {
-  "name": "adcbguo/pay-sdk",
+  "name": "adcbguo/PaySdkPhp",
   "description": "支付SDK PHP版本",
   "keywords": ["alipay","wxpay","pay"],
   "type":"library",
